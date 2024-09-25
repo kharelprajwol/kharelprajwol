@@ -3,7 +3,7 @@
 ###
 
 <p align="left">An aspiring ML/AI Engineer from Nepal</p>
-<p align="left"><a href="https://kharelprajwol.com.np"> My Website <a/> </p>
+<p align="left"><a href="https://kharelprajwol.com.np">kharelprajwol.com.np<a/></p>
 
 ###
 
